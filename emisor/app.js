@@ -28,8 +28,3 @@ console.log(emtr);
 emtr.emit('jump');
 /*Ahora emit también imprimió el resultado de la función que se encontraba en el 
 evento "jump", cuyo resultado es "someone jumped!".*/
-
-
-
-
-
